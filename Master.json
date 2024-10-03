@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Electric Devices",
+    "price": 199.99,
+    "quantity": 50,
+    "description": "High-quality electric devices for various applications."
+  },
+  {
+    "id": 2,
+    "name": "Nails",
+    "price": 24.99,
+    "quantity": 100,
+    "description": "Durable steel nails for construction and household use."
+  },
+  {
+    "id": 3,
+    "name": "Garden Tools",
+    "price": 159.99,
+    "quantity": 30,
+    "description": "Complete set of tools for all your gardening needs."
+  },
+  {
+    "id": 4,
+    "name": "Gardening Devices",
+    "price": 89.99,
+    "quantity": 45,
+    "description": "Essential devices for efficient gardening and landscaping."
+  },
+  {
+    "id": 5,
+    "name": "Paint",
+    "price": 299.99,
+    "quantity": 20,
+    "description": "Premium quality paint available in various colors."
+  },
+  {
+    "id": 6,
+    "name": "Plumbing Devices",
+    "price": 79.99,
+    "quantity": 75,
+    "description": "Reliable plumbing tools for maintenance and repairs."
+  },
+  {
+    "id": 7,
+    "name": "Hammers",
+    "price": 249.99,
+    "quantity": 15,
+    "description": "Heavy-duty hammers suitable for all types of work."
+  }
+]
